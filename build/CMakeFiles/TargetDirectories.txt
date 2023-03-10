@@ -1,0 +1,3 @@
+/home/nate/sfm/build/CMakeFiles/rebuild_cache.dir
+/home/nate/sfm/build/CMakeFiles/edit_cache.dir
+/home/nate/sfm/build/CMakeFiles/feature_detection.dir
